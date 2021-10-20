@@ -92,14 +92,3 @@ npm run cleanup-repository
 ```
 
 
-
-# Roadmap
-
-- [x] [make the starter completely responsive](https://github.com/AamuApp/gatsby-aamu-starter/issues/2)
-- [ ] [include tags](https://github.com/AamuApp/gatsby-aamu-starter/issues/3)
-- [x] [support traced placeholders](https://github.com/AamuApp/gatsby-aamu-starter/issues/4)
-- [ ] [add i18n](https://github.com/AamuApp/gatsby-aamu-starter/issues/6)
-
-# Other resources
-
-- Tutorial video series ["Building a blazing fast website with GatsbyJS and Contentful"](https://www.youtube.com/watch?v=Ek4o40w1tH4&list=PL8KiuH6vpACV-F7jXribe4YveGBhBeG9A) by @Khaledgarbaya
